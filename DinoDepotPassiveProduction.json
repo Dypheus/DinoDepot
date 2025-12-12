@@ -516,10 +516,10 @@
         },
         {
             "dinoType": "/ATScotoharpes/Scotoharpes/Scotoharpes_character_BP.Scotoharpes_character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 0.5,
             "produces": [
                 {
-                    "intervalSeconds": 480.0,
+                    "intervalSeconds": 7200.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -612,3 +612,4 @@
         }
     ]
 }
+
